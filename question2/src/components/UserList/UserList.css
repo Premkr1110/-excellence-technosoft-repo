@@ -1,0 +1,20 @@
+.avatar {
+  vertical-align: middle;
+  width: 64px;
+  height: auto;
+  border-radius: 50%;
+}
+
+.user-avatar{
+    /* width: 5%!important; */
+}
+
+.user-detail{
+    /* width: 95%!important; */
+    text-align: left!important;
+}
+
+.user-email{
+    margin-left: 5px;
+    display: inline;
+}
